@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545422723159",
+    "project_id": "fastwheeler-15d33",
+    "storage_bucket": "fastwheeler-15d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545422723159:android:1ccc50b6476919d93dbb12",
+        "android_client_info": {
+          "package_name": "com.inv.fastwheeler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545422723159-lhtk9u5e7hj48b0hmhpji35np89q3156.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76cp6nc2gEnMMAHn5ENbfZSWyAgHpyMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545422723159-lhtk9u5e7hj48b0hmhpji35np89q3156.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
