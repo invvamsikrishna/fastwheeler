@@ -27,7 +27,7 @@ const String kPassShortError = "Password is too short, must be 6 characters";
 const String kMatchPassError = "Password don't match";
 const String kVehicleNullError = "Please select your vehicle";
 
-const String mapKey = "AIzaSyCjS8h-FCLamEarOtZG4eofwbCcUnmMw2w";
+const String mapKey = "";
 const int cradius = 50000;
 const double clatitude = 17.7267862;
 const double clongitude = 83.3035373;
